@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.csv
+*.json
+!.vscode/settings.json
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.DS_Store
